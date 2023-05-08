@@ -1,0 +1,27 @@
+[
+    {
+      "timeSlotId": 31,
+      "courseName": "SE(BCS-6A)",
+      "slotId"  : "2_31"
+    },
+    {
+      "timeSlotId": 31,
+      "courseName": "COAL (BCS-3A)",
+      "slotId"  : "2_31"
+    },
+    {
+      "timeSlotId": 31,
+      "courseName": "LA(BCS-3C)",
+      "slotId"  : "2_31"
+    },
+    {
+      "timeSlotId": 11,
+      "courseName": "Discrete (BCS-4B)",
+      "slotId"  : "2_11"
+    },
+    {
+      "timeSlotId": 11,
+      "courseName": "POL (BCS-5D)",
+      "slotId"  : "2_11"
+    }
+]
